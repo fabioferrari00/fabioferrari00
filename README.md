@@ -1,4 +1,4 @@
-# Fabio Ferrari 👋
+# Fabio Ferrari 
 
 💻 Junior Front End Developer
 
