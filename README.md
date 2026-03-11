@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Fabio 👋
 
-<!--
-**fabioferrari00/fabioferrari00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Junior Front End Developer
 
-Here are some ideas to get you started:
+## About me
+Sono uno Junior Front End Developer con competenze in:
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Node.js
+- MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ho conseguito un Master in Full Stack Web Development presso Boolean e sono interessato a crescere professionalmente e acquisire esperienza nel settore dello sviluppo web.
+
+## Currently
+🚀 Sto migliorando le mie competenze e lavorando su nuovi progetti.
+
+## Contacts
+📧 fabioferrari.ff00@gmail.com
